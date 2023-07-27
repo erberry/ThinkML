@@ -2,7 +2,7 @@
 
 机器学习
 
-### 开源模型
+### 开源语言模型
 
 - [Chinese-LLaMA-Alpaca 模型合并、量化、推理](convert_and_quantize_chinese_llama_and_alpaca.ipynb)
 - [在新数据集上对 bloom-560m 模型进行微调](train_bloom.ipynb)
@@ -20,5 +20,7 @@
 - [分词器训练](tokenizer_train.ipynb)
 - [如何创建数据集](create_dataset.ipynb)
 
+### 视觉模型
 
 
+- [初识扩散（diffusion）模型——如何生成图片](初识扩散（diffusion）模型——如何生成图片.ipynb)
