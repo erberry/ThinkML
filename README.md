@@ -24,3 +24,4 @@
 
 
 - [初识扩散（diffusion）模型——如何生成图片](初识扩散（diffusion）模型——如何生成图片.ipynb)
+- [图片生成——Stable Diffusion](stable_diffusion_v1_5.ipynb)
