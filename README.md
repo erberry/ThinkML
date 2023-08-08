@@ -9,6 +9,7 @@
 - [运行falcon-7b-instruct模型](falcon_7b_instruct.ipynb)
 - [Ziya-LLaMA-13B-v1.1模型合并](ziya_llama_merge.ipynb)
 - [chatglm2-6b 模型使用GPU、CPU推理，量化](运行大语言模型_chatglm2_6b.ipynb)
+- [通义千问-7B 推理](qwen_7b.ipynb)
 
 ### 神经网络
 
