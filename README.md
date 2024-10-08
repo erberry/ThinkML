@@ -14,6 +14,7 @@
 ### 神经网络
 
 - [通过mnist数据集学习神经网络的推理和学习过程](通过mnist数据集学习神经网络的推理和学习过程.ipynb)
+- [解析多层感知机代码，学习神经网络的学习原理](classifier_mlp_debug_stepbystep.ipynb)
 
 ### NLP
 
